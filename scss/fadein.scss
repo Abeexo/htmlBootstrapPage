@@ -1,0 +1,15 @@
+/* h1 {
+    color: #fff;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+*/
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+    }
+  }

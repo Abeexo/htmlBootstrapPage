@@ -1,0 +1,10 @@
+/*
+  .selector {
+    color: red;
+
+    @include respond('small') {
+      color: blue;
+    }
+  }
+
+  *//*# sourceMappingURL=responsive.css.map */

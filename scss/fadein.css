@@ -1,0 +1,24 @@
+/* h1 {
+    color: #fff;
+    animation: fadeInUp 1s ease-in-out;
+  }
+
+*/
+@-webkit-keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+  }
+}/*# sourceMappingURL=fadein.css.map */
